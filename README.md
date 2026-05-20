@@ -25,4 +25,4 @@ Speaker1: Hello.
   
 Speaker2: Good afternoon speaker1.
 
-# USAGE: ./clean_zoom_transcript transcript.txt > clean_file.txt
+# USAGE: ./clean_zoom_transcript.sh transcript.txt > clean_file.txt
